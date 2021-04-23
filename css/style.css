@@ -48,11 +48,6 @@ main{
     height: 1000px;
 }
 
-footer{
-    height: 50px;
-    background-color: darkviolet;
-    margin-top: 30px;
-}
 
 /* inzio formatazione prima parte */
 .prima_parte{
@@ -87,14 +82,12 @@ footer{
 /* fine formatazione titolo seconda parte */
 
 
-/* inzio formatazione seconda parte */
-
 .seconda_parte{
     height: 600px;
     margin: 25px 0;
 }
 
-/* inzio formatazione prima colonna seconda parte */
+/* inzio formatazione colonne seconda parte */
 
  .img_1{
      width: 100%;
@@ -110,8 +103,6 @@ footer{
     font-size: 17px;
     color: lightgray;
 }
-
-/* fine formatazione prima colonna seconda parte */
 
 .img-contenitore{
     height: 50%;
@@ -145,6 +136,15 @@ footer{
     clear: both;
 }
 
-/* fine formatazione seconda parte */
+/* fine formatazione colonnne seconda parte */
 
-/*commot*/
+
+footer{
+    height: 50px;
+    margin-top: 30px;
+    text-align: center;
+}
+
+#cuore{
+    color: red;
+}
