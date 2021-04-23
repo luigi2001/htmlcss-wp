@@ -80,18 +80,27 @@ footer{
 
 /* fine formatazione prima parte */
 
-/* inzio formatazione seconda parte */
-.seconda_parte{
-    height: 600px;
-    background-color: darkblue;
-    /*border: 2px solid black;*/
-    margin: 25px 0;
-}
+
+/* inzio formatazione titolo seconda parte */
 
 .titolo{
     height: 10%;
-    background-color: lightblue;
     margin-bottom: 20px;
+    padding: 10px 0;
+}
+
+.titolo h5{
+    color: lightgray;
+}
+
+/* fine formatazione titolo seconda parte */
+
+
+/* inzio formatazione seconda parte */
+
+.seconda_parte{
+    height: 600px;
+    margin: 25px 0;
 }
 
 .prima_colonna, .seconda_colonna, .terza_colonna {
