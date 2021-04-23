@@ -8,10 +8,49 @@ body{
     padding: 0 50px;
 }
 
+/*inzio header*/
+
 header{
     height: 100px;
-    background-color: violet;
 }
+
+header .header-top{
+    height: 70%;
+}
+
+header .header-bottom{
+    height: 30%;
+    padding-left: 20px;
+}
+
+.header-bottom ul li{
+    list-style: none;
+}
+
+.header-bottom ul{
+    padding-top: 10px;
+}
+
+.header-bottom ul li a{
+    text-decoration: none;
+    color: lightgray;
+    text-transform: uppercase;
+}
+
+.header-bottom li{
+    display: inline-block;
+    margin-right: 15px;
+}
+
+
+#logo{
+    width: 8%;
+    padding: 15px;
+    border-right: 1px solid lightgray;
+}
+
+
+/*fine header*/
 
 main{
     height: 1000px;
