@@ -105,7 +105,7 @@ main{
 }
 
 .img-contenitore{
-    height: 50%;
+    height: 250px;
 }
 
 #img_banner{
@@ -118,7 +118,6 @@ main{
 
 .prima_colonna, .seconda_colonna, .terza_colonna {
     float: left;
-    height: 500px;
 }
 
 .prima_colonna, .terza_colonna{
